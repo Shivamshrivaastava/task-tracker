@@ -24,9 +24,9 @@ cd backend
 npm install
 npm start
 ```
-#backend hosted and Runs on: `https://task-tracker-1wen.onrender.com/api` 
+#backend hosted and Runs on: https://task-tracker-1wen.onrender.com/api
 ---
-#frontend hosted and Runs on: `https://the-task-tracking-app.netlify.app/`
+#frontend hosted and Runs on: https://the-task-tracking-app.netlify.app/
 ---
 ### Backend Endpoints
 - `POST /auth/register` → Register user
